@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1434234254 source:c:\users\maverick del cid\documents\programacion3\clase7\main.cpp
+	<iostream>
+	<queue>
+	<stack>
+	<set>
+	<vector>
+	<list>
+	<map>
+
